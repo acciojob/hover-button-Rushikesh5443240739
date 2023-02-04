@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.rushi{
+	color:white;
+	background:black;
+	border-radius:5px;
+}
+.rushi:hover{
+	color:black;
+	background:yellow;
+	border-radius: 30px;
+}
